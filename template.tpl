@@ -1,4 +1,4 @@
-﻿___TERMS_OF_SERVICE___
+___TERMS_OF_SERVICE___
 
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
@@ -14,6 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Gurado Gutscheinshop Bubble Mode",
+  "categories": ["SALES", "LEAD_GENERATION"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "Gurado",
